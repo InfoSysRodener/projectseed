@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_64" data-name="Ellipse 64" cx="17.5" cy="17.5" r="17.5" transform="translate(3545.425 455.812)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="35" height="35" transform="translate(3545.425 455.812)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Thailand" transform="translate(-3545.425 -455.812)">
+    <g id="Group_908" data-name="Group 908">
+      <g id="Group_907" data-name="Group 907" clip-path="url(#clip-path)">
+        <g id="THAILAND-2" data-name="THAILAND">
+          <g id="Group_906" data-name="Group 906">
+            <g id="Group_905" data-name="Group 905">
+              <g id="Group_904" data-name="Group 904" clip-path="url(#clip-path-2)">
+                <rect id="Rectangle_142" data-name="Rectangle 142" width="35" height="35" transform="translate(3545.425 455.812)" fill="#cb0028"/>
+                <rect id="Rectangle_143" data-name="Rectangle 143" width="35" height="23.319" transform="translate(3545.425 461.648)" fill="#fff"/>
+                <rect id="Rectangle_144" data-name="Rectangle 144" width="35" height="11.667" transform="translate(3545.425 467.478)" fill="#1a237b"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_909" data-name="Group 909">
+      <g id="Ellipse_65" data-name="Ellipse 65" transform="translate(3545.425 455.812)" fill="none" stroke="#acacac" stroke-width="0.5">
+        <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+        <circle cx="17.5" cy="17.5" r="17.25" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

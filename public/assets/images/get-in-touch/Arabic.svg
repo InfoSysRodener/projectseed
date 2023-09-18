@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Arabic" transform="translate(-1959.349 173.269)">
+    <g id="Group_236" data-name="Group 236">
+      <path id="Path_511" data-name="Path 511" d="M1971.521-172.437V-139.1a17.526,17.526,0,0,1-12.172-16.667A17.53,17.53,0,0,1,1971.521-172.437Z" fill="#bc0030"/>
+      <g id="Group_235" data-name="Group 235">
+        <path id="Path_512" data-name="Path 512" d="M1993.352-149.935a17.534,17.534,0,0,1-16.5,11.666,17.332,17.332,0,0,1-5.329-.833v-10.833Z"/>
+        <path id="Path_513" data-name="Path 513" d="M1993.352-161.6h-21.831v-10.837a17.332,17.332,0,0,1,5.329-.832A17.531,17.531,0,0,1,1993.352-161.6Z" fill="#3f9b13"/>
+        <path id="Path_514" data-name="Path 514" d="M1994.349-155.769a17.407,17.407,0,0,1-1,5.834h-21.831V-161.6h21.831A17.368,17.368,0,0,1,1994.349-155.769Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Ellipse_34" data-name="Ellipse 34" transform="translate(1959.349 -173.269)" fill="none" stroke="#acacac" stroke-width="0.5">
+      <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+      <circle cx="17.5" cy="17.5" r="17.25" fill="none"/>
+    </g>
+  </g>
+</svg>

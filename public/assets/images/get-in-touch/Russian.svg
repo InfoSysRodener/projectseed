@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_61" data-name="Ellipse 61" cx="17.5" cy="17.5" r="17.5" transform="translate(1781.168 -173.269)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Russian" transform="translate(-1781.168 173.269)">
+    <g id="Group_877" data-name="Group 877">
+      <g id="Group_876" data-name="Group 876" clip-path="url(#clip-path)">
+        <g id="Group_875" data-name="Group 875">
+          <rect id="Rectangle_133" data-name="Rectangle 133" width="35" height="17.5" transform="translate(1781.168 -173.269)" fill="#fff"/>
+          <rect id="Rectangle_134" data-name="Rectangle 134" width="35" height="17.5" transform="translate(1781.168 -155.769)" fill="#d52b1e"/>
+          <rect id="Rectangle_135" data-name="Rectangle 135" width="35" height="11.667" transform="translate(1781.168 -161.603)" fill="#0039a6"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_878" data-name="Group 878">
+      <g id="Ellipse_62" data-name="Ellipse 62" transform="translate(1781.168 -173.269)" fill="none" stroke="#acacac" stroke-width="0.5">
+        <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+        <circle cx="17.5" cy="17.5" r="17.25" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

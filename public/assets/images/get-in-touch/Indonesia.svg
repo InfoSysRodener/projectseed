@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="17.5" cy="17.5" r="17.5" transform="translate(2127.557 1056.657)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="35" height="35" transform="translate(2127.557 1056.657)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Indonesia" transform="translate(-2127.557 -1056.657)">
+    <g id="Group_255" data-name="Group 255">
+      <g id="Group_254" data-name="Group 254" clip-path="url(#clip-path)">
+        <g id="MONACO">
+          <g id="Group_253" data-name="Group 253">
+            <g id="Group_252" data-name="Group 252">
+              <g id="Group_251" data-name="Group 251" clip-path="url(#clip-path-2)">
+                <rect id="Rectangle_100" data-name="Rectangle 100" width="35" height="17.503" transform="translate(2127.557 1056.657)" fill="#d80031"/>
+                <rect id="Rectangle_101" data-name="Rectangle 101" width="35" height="17.497" transform="translate(2127.557 1074.16)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_256" data-name="Group 256">
+      <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(2127.557 1056.657)" fill="none" stroke="#acacac" stroke-width="0.5">
+        <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+        <circle cx="17.5" cy="17.5" r="17.25" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
